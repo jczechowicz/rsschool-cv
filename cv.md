@@ -1,26 +1,30 @@
-# CV/Resume
+# Curriculum Vitae 
+## Jan Jakub Czechowicz
+###### Contact Info: 
+- e-mail: jczechowicz@duck.com
+- Discord: Art0fDude#3569 
 
-* ## Jan, Czechowicz
-* ## Contact Info: 
-  – email: jjczechowicz@gmail.com
-  – Discord: 
-  
-* ## About me: 
+##### Summary:  
+I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python/Java, but since some time I am also learning web languages. That's why I am very enthusiastic towards The Rolling Scopes because I feel a lot useful knowledge here.
 
+***My GOAL:*** learn as much as possible here. Become a fluent and wise Web programmer. 
 
-What should a Junior Developer Resume contain?
+##### Skills: 
+- computer literacy (Windows, macOS, Linux); including IDE (Integrated Development Environment) software (e.g.: PyCharm, IntelliJ IDEA or Atom)
+- practical knowledge of Microsoft Excel
+- Python
 
-! Important: write your Resume in English if you can, if possible
+##### Fresh C0DE: 
+WIP
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+##### Experience: 
+- XII 2020 – XII 2021, participation in the bootcamp "Studiuje.IT" introducing the basics of Computer Science and Programming (including topics such as Databases, Software Engineering, Project management in IT etc.)
+- X – XII 2021, participation in the “Akademia Liderów Zmiany Cyfrowej” (“Digital Transformation Leaders Academy”) workshops prepared by University of Warsaw together with Salesforce and Cloudity
+
+##### Education: 
+- since X 2019, student at the Faculty of Philosophy of the University of Warsaw (III-year, Bachelor's degree) 
+- from II to VII 2022, Erasmus scholarship holder at KU Leuven Institute of Philosophy, Belgium
+
+##### ENG🇬🇧: 
+- Advanced - C1 (confirmed by the Univeristy of Warsaw Certificate of Language Proficiency)
+- I am currently learning in English as a Erasmus student
