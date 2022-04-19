@@ -1,1 +1,57 @@
+body {
+font: 14px;
+  font-family: monospaced;
+  margin: 0;
+}
 
+article {
+  padding:0 1em;
+}
+
+section{
+  margin: 1em;
+  padding: 1em;
+}
+
+header, main, footer {
+  margin: 0 auto;
+}
+
+header {
+  padding: 2em;
+  text-align: center;
+  font-color: white;
+}
+
+header section {
+  margin: 0 auto;
+}
+
+header img {
+  background-image: url(https://drive.google.com/drive/u/2/folders/1D9NVIG_qVoqmw-edI40Ki8frjZdS--ec)
+}
+
+h1 {
+  margin: 1em 0;
+}
+
+main {
+  max-width: 1140px;
+}
+
+.course {
+}
+
+.course .title {
+}
+
+.course .descrition {
+}
+
+.school span {
+  color: #A7B8BF;
+}
+
+footer {
+ padding: 1em;
+}
