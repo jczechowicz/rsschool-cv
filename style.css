@@ -40,18 +40,50 @@ main {
 }
 
 .course {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .course .title {
+  flex: 0 0 33.3%;
+  max-width: 33%
 }
 
 .course .descrition {
+  flex: 0 0 66.6%;
+  max-width: 66.6%
+}
+
+.course .descrition p {
+  padding-left: 1em;
 }
 
 .school span {
   color: #A7B8BF;
 }
+.skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.skills .column {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
 
 footer {
  padding: 1em;
 }
+
+a {
+  color: #1C9C94;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+
