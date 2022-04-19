@@ -2,7 +2,7 @@
 ## Jan Jakub Czechowicz
 Junior Frontend Developer
 
-###### Contact Info: 
+##### Contact Info: 
 - e-mail: jczechowicz@duck.com
 - Discord: Art0fDude#3569 
 
