@@ -3,7 +3,7 @@
 Junior Frontend Developer
 
 ##### Contact Info: 
-- e-mail: jczechowicz@duck.com
+- E-mail: jczechowicz@duck.com
 - Discord: Art0fDude#3569 
 
 ##### Summary:  
