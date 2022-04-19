@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Curriculum Vitae</title>
+		<meta name="description" content="your description">
+		<meta name="author" content="your name">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<header>
+			<div>
+				<img src="path/to/file" />
+			</div>
+			<h1>Jan Jakub Czechowicz</h1>
+			<section>
+			<h3> Summary: </h3>
+				<p>I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python/Java, but since some time I am also learning web languages. That's why I am very enthusiastic towards The Rolling Scopes because I feel a lot useful knowledge here.</p>
+			</section>
+		</header>
+		<main>
+			<!--Courses -->
+			<section>
+				<h3>Contact Info:</h3>
+				<article class='contact info'>
+					<div class='title'>
+						Contact Info:
+					</div>
+					<div class="descrition">
+						<p> - e-mail: jczechowicz@duck.com
+- Discord: Art0fDude#3569 </p>
+					</div>
+				</article>
+			</section>
+			
+			<section>
+				<h3>Skills</h3>
+					<div>
+					<p> <span>- computer literacy (Windows, macOS, Linux); including IDE (Integrated Development Environment) software (e.g.: PyCharm, IntelliJ IDEA or Atom) </span>
+<span> - practical knowledge of Microsoft Excel</span>
+<span>- University of Michigan certificate in Python 3 programming, obtained after completing the Specialization course “Python for Everybody” </span>
+<span>- Duke University certificate in Programming Foundations with JavaScript, HTML and CSS</span>
+<span>- completed a certified course “Internet History, Technology, and Security” offered by the University of Michigan</span>
+<span>- completed certified courses „Elements of AI” and “Ethics of AI” on the basics of science and ethics on Artificial Intelligence organized by the University of Helsinki</span> </p>
+					</div>
+
+
+			</section>
+			
+			section>
+				<h3>Fresh C0DE</h3>
+					<div>
+					<p> WIP </p>
+					</div>
+			</section>
+			
+		
+			<section>
+				<h3>Experience</h3>
+	      <article>
+	        <div class='school'>
+	          <span>XII 2020 – XII 2021</span> participation in the bootcamp "Studiuje.IT" introducing the basics of Computer Science and Programming (including topics such as Databases, Software Engineering, Project management in IT etc.)
+	        </div>
+	        <div class="school">
+		<span>X – XII 2021</span> participation in the “Akademia Liderów Zmiany Cyfrowej” (“Digital Transformation Leaders Academy”) workshops prepared by University of Warsaw together with Salesforce and Cloudity
+	        </div>
+	      </article>
+			</section>
+			
+			<section>
+				<h3>Education</h3>
+	      <article>
+	        <div class='school'>
+	          <span>since X 2019</span>student at the Faculty of Philosophy of the University of Warsaw (III-year, Bachelor's degree) 
+	        </div>
+	        <div class="school">
+		<span>from II to VII 2022</span> Erasmus scholarship holder at KU Leuven Institute of Philosophy, Belgium
+	        </div>
+	      </article>
+			</section>
+			
+			<section>
+				<h3>ENG</h3>
+	      <article>
+	        <div class='school'>
+	          <span>Advanced – C1</span> (confirmed by the Univeristy of Warsaw Certificate of Language Proficiency)
+	        </div>
+	        <div class="school">
+		I am currently learning in English as a Erasmus student
+	        </div>
+	      </article>
+			</section>
+			
+
+		</main>
+		<footer>
+			<p>Created by Jan Jakub Czechowicz</p>
+		</footer>
+	</body>
+</html>
