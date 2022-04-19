@@ -1,1 +1,1 @@
-https://jczechowicz.github.io/rsschool-cv/
+https://jczechowicz.github.io/rsschool-cv/index.html
