@@ -1,5 +1,7 @@
 # Curriculum Vitae 
 ## Jan Jakub Czechowicz
+Junior Frontend Developer
+
 ###### Contact Info: 
 - e-mail: jczechowicz@duck.com
 - Discord: Art0fDude#3569 
@@ -12,7 +14,10 @@ I am a philosophy student living in Warsaw. I am fascinated by issues at the int
 ##### Skills: 
 - computer literacy (Windows, macOS, Linux); including IDE (Integrated Development Environment) software (e.g.: PyCharm, IntelliJ IDEA or Atom)
 - practical knowledge of Microsoft Excel
-- Python
+- University of Michigan certificate in Python 3 programming, obtained after completing the Specialization course “Python for Everybody”
+- Duke University certificate in Programming Foundations with JavaScript, HTML and CSS
+- completed a certified course “Internet History, Technology, and Security” offered by the University of Michigan
+- completed certified courses „Elements of AI” and “Ethics of AI” on the basics of science and ethics on Artificial Intelligence organized by the University of Helsinki
 
 ##### Fresh C0DE: 
 WIP
