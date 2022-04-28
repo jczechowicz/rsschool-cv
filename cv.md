@@ -7,7 +7,7 @@ Junior Frontend Developer
 - Discord: Art0fDude#3569 
 
 ##### Summary:  
-I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python/Java, but since some time I am also learning web languages. That's why I am very enthusiastic towards The Rolling Scopes because I feel a lot useful knowledge here.
+I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python/Java, but since some time I am also learning web languages. 
 
 ***My GOAL:*** learn as much as possible here. Become a fluent and wise Web programmer. 
 
