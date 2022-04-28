@@ -12,7 +12,7 @@ I am a philosophy student living in Warsaw. I am fascinated by issues at the int
 ***My GOAL:*** learn as much as possible here. Become a fluent and wise Web programmer. 
 
 ##### Skills: 
-- computer literacy (Windows, macOS, Linux); including IDE (Integrated Development Environment) software (e.g.: PyCharm, IntelliJ IDEA or Atom)
+- computer literacy (Windows, macOS, Linux); including IDE software (e.g.: PyCharm, IntelliJ IDEA or Atom)
 - practical knowledge of Microsoft Excel
 - University of Michigan certificate in Python 3 programming, obtained after completing the Specialization course “Python for Everybody”
 - Duke University certificate in Programming Foundations with JavaScript, HTML and CSS
