@@ -4,12 +4,12 @@ Junior Frontend Developer
 
 ##### Contact Info: 
 - E-mail: jczechowicz@duck.com
-- Discord: Art0fDude#3569 
+- Discord: Th3Dude#3569 
 
 ##### Summary:  
-I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python/Java, but since some time I am also learning web languages. 
+I am a philosophy student living in Warsaw. I am fascinated by issues at the interface of the humanities and technology, in particular related to social and ethical risks, etc. Apart from that, I am persistently learning programming: mainly Python, but since some time I am also learning about web development. 
 
-***My GOAL:*** learn as much as possible here (& I mean A$AP). Become a fluent and wise Web programmer. 
+***My GOAL:*** learn as much as possible here (& I mean A$AP). Become a fluent and wise programmer. 
 
 ##### Skills: 
 - computer literacy (Windows, macOS, Linux); including IDE software (e.g.: PyCharm, IntelliJ IDEA or Atom)
@@ -32,4 +32,3 @@ WIP
 
 ##### ENG🇬🇧: 
 - Advanced - C1 (confirmed by the Univeristy of Warsaw Certificate of Language Proficiency)
-- I am currently learning in English as a Erasmus student
