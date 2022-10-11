@@ -117,11 +117,11 @@ a:hover {
   color: #509e98;
 }
 
-.school, .job-title {
+.school, .job-title, .course {
   text-transform: capitalize;
 }
 
-.school span, .job-title span {
+.school span, .job-title span, .course span {
   color: #889499;
   text-decoration: underline;
 }
