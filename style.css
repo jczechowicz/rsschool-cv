@@ -54,16 +54,19 @@ body {
     border-bottom: 1px solid #ccc;
   }
   
+  pre {
+    text-align: left;
+  }
   /* Add a background color to the top navigation */
   .nav {
-  background-color: #A7B8BF;
+  background-color: black;
   overflow: hidden;
   }
 
   /* Style the links inside the navigation bar */
   .nav a {
     float: left;
-    color: white;
+    color: #889499;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -72,13 +75,13 @@ body {
 
   /* Change the color of links on hover */
   .nav a:hover {
-    background-color: #889499;
+    background-color: #A7B8BF;
     color: black;
   }
 
   /* Add a color to the active/current link */
   .nav a.active {
-    background-color: #509e98;
+    background-color: #A7B8BF;
     color: white;
   }
 
@@ -88,6 +91,7 @@ body {
     width: 30px;
     text-decoration: none;
     border-radius: 50%;
+    text-align: left;
   }
   
   a {
@@ -136,25 +140,13 @@ body {
     list-style-type: none;
   }
   
-  .skills .column ul > li:before {
-    content: "►";
-    padding-right: 0.5em;
-    color: #509e98;
-  }
-  
   .education, .exp-title, .languages {
     text-transform: capitalize;
   }
   
   .education span, .exp-title span, .languages span {
     color: #889499;
-    text-decoration: underline;
-  }
-  
-  ul.experience li:before{
-    content: "✔";
-    padding-right: 0.5em;
-    color: #509e98;
+    text-decoration: wavy;
   }
   
   footer {
