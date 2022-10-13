@@ -1,4 +1,4 @@
-# Curriculum Vitae 
+# CV
 ## Jan Jakub Czechowicz
 Junior Frontend Developer
 
