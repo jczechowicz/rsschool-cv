@@ -88,15 +88,10 @@ body {
     width: 30px;
     text-decoration: none;
     border-radius: 50%;
-    text-align: left;
   }
-  
+
   a {
     color: #696969;
-  }
-  
-  a .fab {
-    color: white;
   }
   
   a:hover {
@@ -142,7 +137,8 @@ body {
    color: white;
    text-align: right;
   }
-  
+
+
   @media only screen and (max-width: 768px) {
     .languages {
       display: block;
@@ -156,10 +152,6 @@ body {
   @media only screen and (max-width: 576px) {
     .skills {
       display: block;
-    }
-  
-    .skills .column {
-      max-width: 100%;
     }
   
     footer {
