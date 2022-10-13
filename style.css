@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+    font: 16px;
+    font-family: monospace;
+    line-height: 1.5em;
+  }
+  
+  article {
+    padding:0 1em;
+  }
+  
+  section {
+    margin: 1em;
+    padding: 1em;
+  }
+  
+  header, main, footer {
+    margin: 0 auto;
+  }
+  
+  header {
+    padding: 2em;
+    text-align: center;
+    color: #000000;
+    background-size: cover;
+    background-position: fixed;
+  }
+  
+  header section {
+    margin: 0 auto;
+    max-width: 640px;
+  }
+  
+  header img {
+    border-radius: 50%;
+    max-width: 150px;
+  }
+  
+  h1 {
+    margin: 1em 0;
+    text-transform: uppercase;
+  }
+  
+  h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  main {
+    max-width: 1140px;
+  }
+  
+  main section:not(:last-child) {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Add a background color to the top navigation */
+  .nav {
+  background-color: #A7B8BF;
+  overflow: hidden;
+  }
+
+  /* Style the links inside the navigation bar */
+  .nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  /* Change the color of links on hover */
+  .nav a:hover {
+    background-color: #889499;
+    color: black;
+  }
+
+  /* Add a color to the active/current link */
+  .nav a.active {
+    background-color: #509e98;
+    color: white;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  a {
+    color: #696969;
+  }
+  
+  a .fab {
+    color: white;
+  }
+  
+  a:hover {
+    opacity: 0.5;
+  }
+  
+  .languages, .skills {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  
+  .languages .title {
+    color: #509e98;
+    -ms-flex: 0 0 33.3%;
+    flex: 0 0 33.3%;
+    max-width: 33%;
+  }
+  
+  .languages .description {
+    -ms-flex: 0 0 66.6%;
+    flex: 0 0 66.6%;
+    max-width: 66.6%;
+  }
+  
+  .languages .description p {
+    padding-left: 1em;
+  }
+  
+  .skills .column {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  
+  .skills .column ul, ul.experience {
+    list-style-type: none;
+  }
+  
+  .skills .column ul > li:before {
+    content: "►";
+    padding-right: 0.5em;
+    color: #509e98;
+  }
+  
+  .education, .exp-title, .languages {
+    text-transform: capitalize;
+  }
+  
+  .education span, .exp-title span, .languages span {
+    color: #889499;
+    text-decoration: underline;
+  }
+  
+  ul.experience li:before{
+    content: "✔";
+    padding-right: 0.5em;
+    color: #509e98;
+  }
+  
+  footer {
+   padding: 1em 1.5em;
+   background: #A7B8BF;
+   color: white;
+   text-align: right;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .languages {
+      display: block;
+    }
+  
+    .languages .title, .column .description {
+      max-width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 576px) {
+    .skills {
+      display: block;
+    }
+  
+    .skills .column {
+      max-width: 100%;
+    }
+  
+    footer {
+      text-align: center;
+    }
+  }
