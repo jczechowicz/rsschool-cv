@@ -92,8 +92,8 @@ body {
 
   .icons {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
+    bottom: 0px;
+    left: 14px;
   }
 
   a {
