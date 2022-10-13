@@ -56,14 +56,14 @@ body {
   
   /* Add a background color to the top navigation */
   .nav {
-  background-color: black;
+  background-color: #A7B8BF;
   overflow: hidden;
   }
 
   /* Style the links inside the navigation bar */
   .nav a {
     float: left;
-    color: #889499;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -88,6 +88,7 @@ body {
     width: 30px;
     text-decoration: none;
     text-align: left;
+    float: left;
     border-radius: 50%;
   }
 
